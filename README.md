@@ -1,0 +1,1 @@
+Welcome to the Snake Game project built using the Qt Framework! This repository contains the source code and resources for a classic Snake game implemented with Qt, a powerful cross-platform application development framework.
